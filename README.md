@@ -8,3 +8,6 @@
 
 3. **Data Analysis Using python Pandas**  
    https://github.com/raksharshetty67/Python_Case_Studies/blob/main/Data_Analysis_Using_Python.ipynb
+
+4. **Some Questions from Pandas**  
+   https://github.com/raksharshetty67/Python_Case_Studies/blob/main/Pandas_Questions.ipynb
