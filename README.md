@@ -12,6 +12,9 @@
 4. **Some Questions from Pandas**  
    https://github.com/raksharshetty67/Python_Case_Studies/blob/main/Pandas_Questions.ipynb
 
-4. **Handling Missing Values**  
+5. **Handling Missing Values**  
    https://github.com/raksharshetty67/Python_Case_Studies/blob/main/Missing_Values.ipynb
+
+6. **Handling Missing Values**  
+   https://github.com/raksharshetty67/Python_Case_Studies/blob/main/Outliers.ipynb
 
