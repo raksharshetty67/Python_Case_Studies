@@ -18,3 +18,12 @@
 6. **Handling Missing Values**  
    https://github.com/raksharshetty67/Python_Case_Studies/blob/main/Outliers.ipynb
 
+
+
+
+# **Matplotlib**
+1. **Line Plot Implementation** </br>
+   https://github.com/raksharshetty67/Python_Case_Studies/blob/main/Line%20Plot.ipynb
+
+2. **Bar Plot Implementation** </br>
+   https://github.com/raksharshetty67/Python_Case_Studies/blob/main/Bar%20Plot.ipynb
