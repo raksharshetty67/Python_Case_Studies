@@ -27,3 +27,12 @@
 
 2. **Bar Plot Implementation** </br>
    https://github.com/raksharshetty67/Python_Case_Studies/blob/main/Bar%20Plot.ipynb
+
+3. **Scatter Plot Implementation** </br>
+   https://github.com/raksharshetty67/Python_Case_Studies/blob/main/Scatter%20Plot.ipynb
+
+4. **Histogram Implementation** </br>
+   https://github.com/raksharshetty67/Python_Case_Studies/blob/main/Histogram.ipynb
+
+5. **Count Plot Implementation** </br>
+   https://github.com/raksharshetty67/Python_Case_Studies/blob/main/Count%20Plot.ipynb
